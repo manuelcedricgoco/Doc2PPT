@@ -1,0 +1,188 @@
+{
+  "document": {
+    "title": "Goco Manuel Cedric P. 08/28/26 BSIT 3A",
+    "sections": [
+      {
+        "id": 0,
+        "heading": "Goco Manuel Cedric P. 08/28/26 BSIT 3A",
+        "level": 1,
+        "paragraphIds": [
+          0
+        ],
+        "tableIds": []
+      },
+      {
+        "id": 1,
+        "heading": "Rizal's Early Education in the Philippines",
+        "level": 1,
+        "paragraphIds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "tableIds": []
+      }
+    ],
+    "paragraphs": [
+      {
+        "id": 0,
+        "text": "Jose Rizal is remembered as the national hero of the Philippines, a doctor, writer and reformer whose ideas shaped the nation. His thinking did not appear overnight. It was formed in the home, in small town schools and in the classrooms of Manila. This paper looks at how his early education prepared him for the work he would later do.",
+        "type": "paragraph",
+        "sectionId": 0
+      },
+      {
+        "id": 1,
+        "text": "Jose Protacio Rizal Mercado y Alonso Realonda was born on June 19, 1861, in Calamba, Laguna. His parents, Francisco Mercado and Teodora Alonso, were hardworking tenant farmers who valued learning. The family library and the habit of daily prayer made the household a place where a curious child could grow.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 2,
+        "text": "His first teacher was his mother. Teodora Alonso taught him the alphabet and his prayers, and she told him stories that carried a lesson. One of them was the tale of the moth that was drawn to a lamp and burned, a story Rizal remembered for the rest of his life. His mother also encouraged his love of poetry and his first attempts at writing verses.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 3,
+        "text": "When he was old enough, his father hired private tutors to teach him at home. Maestro Celestino and Maestro Lucas Padua taught him lessons in reading and writing. Later, Leon Monroy, a former classmate of his father, taught him Spanish and Latin. Monroy lived with the family, but he died after only a few months, and Rizal's lessons at home came to an end.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 4,
+        "text": "In June 1869, at the age of eight, Rizal was sent to a school in Binan, Laguna, under Maestro Justiniano Aquino Cruz. He lived with an aunt in the town and studied Spanish, Latin and arithmetic. He quickly became the best student in the class, although some older classmates bullied him. He also spent his free time painting and sculpting, and these early talents grew into skills he used for the rest of his life. After a year and a half, he left Binan and returned to Calamba.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 5,
+        "text": "The years 1871 and 1872 were difficult for the Rizal family. His mother was arrested on a false charge and jailed for more than two years. In February 1872, three priests, Mariano Gomez, Jose Burgos and Jacinto Zamora, were executed in Manila. Rizal's elder brother Paciano was a close friend of Father Burgos, and the event deeply affected the family. These experiences made Rizal aware of injustice at a young age.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 6,
+        "text": "In June 1872, Rizal took the entrance examination for the Ateneo Municipal de Manila, a school run by the Jesuits. At first, he was refused admission because he was small for his age and because he was late to register. With the help of Manuel Xerez Burgos, he was eventually accepted. At Ateneo he enrolled under the name Jose Rizal, a name taken from the family's other surname.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 7,
+        "text": "The Jesuit education at Ateneo was strict and demanding. Rizal studied Spanish, Latin, Greek, mathematics, science and religion. Students were divided into two groups, the Roman Empire and the Carthaginian Empire, and competed for the highest marks. Rizal rose to the top of his class and earned many medals. One of his teachers, Father Francisco de Paula Sanchez, encouraged his talent for writing poetry.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 8,
+        "text": "In March 1877, at the age of sixteen, Rizal received his Bachelor of Arts degree from Ateneo with the highest honors. He then continued his studies at the University of Santo Tomas, first in Philosophy and Letters and later in Medicine. These years completed his formal education in the Philippines before he left for Spain in 1882.",
+        "type": "paragraph",
+        "sectionId": 1
+      },
+      {
+        "id": 9,
+        "text": "The education Rizal received in the Philippines gave him the foundation for all he later achieved. His mother taught him to love learning, his tutors and teachers gave him the discipline to pursue it, and the events of his youth showed him why reform was needed. His early years remain an example of how family and school together can shape a person who serves his country.",
+        "type": "paragraph",
+        "sectionId": 1
+      }
+    ],
+    "tables": [],
+    "metadata": {
+      "fileName": "Rizal.docx",
+      "fileType": "docx",
+      "fileSize": 36000,
+      "wordCount": 669
+    }
+  },
+  "analysis": {
+    "category": "educational",
+    "confidence": 0.72,
+    "usedFallback": false,
+    "title": "Goco Manuel Cedric P. 08/28/26 BSIT 3A",
+    "sections": [
+      {
+        "id": 0,
+        "heading": "Goco Manuel Cedric P. 08/28/26 BSIT 3A",
+        "level": 1,
+        "role": "other",
+        "wordCount": 60,
+        "paragraphCount": 1,
+        "listItemCount": 0,
+        "tableCount": 0,
+        "density": "normal",
+        "keywords": []
+      },
+      {
+        "id": 1,
+        "heading": "Rizal's Early Education in the Philippines",
+        "level": 1,
+        "role": "other",
+        "wordCount": 594,
+        "paragraphCount": 9,
+        "listItemCount": 0,
+        "tableCount": 0,
+        "density": "dense",
+        "keywords": [
+          "rizal",
+          "family",
+          "years"
+        ]
+      }
+    ],
+    "keywords": [
+      "rizal",
+      "education",
+      "family",
+      "years",
+      "goco manuel",
+      "manuel cedric",
+      "philippines",
+      "early",
+      "jose",
+      "school"
+    ],
+    "scores": [
+      {
+        "category": "educational",
+        "score": 8,
+        "matchedKeywords": [
+          "lesson",
+          "teacher",
+          "students",
+          "classroom"
+        ]
+      },
+      {
+        "category": "academic",
+        "score": 0,
+        "matchedKeywords": []
+      },
+      {
+        "category": "it",
+        "score": 0,
+        "matchedKeywords": []
+      },
+      {
+        "category": "business",
+        "score": 0,
+        "matchedKeywords": []
+      },
+      {
+        "category": "marketing",
+        "score": 0,
+        "matchedKeywords": []
+      }
+    ],
+    "matchedKeywords": [
+      "lesson",
+      "teacher",
+      "students",
+      "classroom"
+    ]
+  }
+}

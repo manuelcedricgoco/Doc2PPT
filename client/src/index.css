@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Bricolage Grotesque Variable", "Segoe UI", system-ui, sans-serif;
+  --font-sans: "Figtree Variable", "Segoe UI", system-ui, sans-serif;
+
+  --color-paper: #f5f6f8;
+  --color-surface: #ffffff;
+  --color-ink: #151b2e;
+  --color-muted: #566074;
+  --color-line: #dde1e9;
+  --color-brand: #2748d8;
+  --color-brand-dark: #1d38b0;
+  --color-brand-soft: #e8ecfd;
+  --color-mark: #ffe066;
+  --color-ok: #12805c;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-5 py-3 text-sm font-semibold transition-colors;
+  }
+  .btn-primary {
+    @apply bg-brand text-white hover:bg-brand-dark disabled:cursor-not-allowed disabled:bg-line disabled:text-muted;
+  }
+  .btn-secondary {
+    @apply border border-line bg-surface text-ink hover:border-ink/40;
+  }
+}
+
+/* Hero mockup: highlighted sentences become slide bullets (plays once). */
+.mark {
+  color: inherit;
+  background-image: linear-gradient(var(--color-mark), var(--color-mark));
+  background-repeat: no-repeat;
+  background-size: 0% 100%;
+  animation: mark-sweep 0.7s ease-out forwards;
+  animation-delay: var(--d, 0s);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.reveal {
+  opacity: 0;
+  animation: reveal 0.5s ease-out forwards;
+  animation-delay: var(--d, 0s);
+}
+@keyframes mark-sweep {
+  to { background-size: 100% 100%; }
+}
+@keyframes reveal {
+  to { opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .mark { animation: none; background-size: 100% 100%; }
+  .reveal { animation: none; opacity: 1; }
+}
